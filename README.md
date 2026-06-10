@@ -31,27 +31,6 @@ The dataset contains information about drivers receiving coupons while traveling
 
 ---
 
-## Project Structure
-
-```
-├── prompt.ipynb      # Main Jupyter notebook containing analysis
-├── coupons.csv       # Dataset
-└── README.md         # Project documentation
-```
-
----
-
-## Tools and Libraries
-
-The analysis was performed using:
-
-- **Python**
-- **Pandas** — data manipulation and cleaning
-- **NumPy** — numerical operations
-- **Matplotlib** — visualizations
-- **Seaborn** — statistical data visualization
-
----
 
 ## Data Cleaning
 
@@ -154,18 +133,3 @@ An additional analysis was conducted on **Restaurant ($20–$50)** coupons.
 
 ---
 
-## Getting Started
-
-To run the analysis locally:
-
-```bash
-# Clone the repository
-git clone <your-repo-url>
-cd <your-repo-folder>
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn jupyter
-
-# Launch the notebook
-jupyter notebook prompt.ipynb
-```
