@@ -68,6 +68,8 @@ The cleaned dataset was used for all subsequent analyses.
 
 ## Exploratory Data Analysis
 
+[View Notebook on GitHub](https://github.com/oakca-dev/machinelearning/blob/main/prompt.ipynb)
+
 Several visualizations were created to better understand the dataset.
 
 ### Coupon Distribution
